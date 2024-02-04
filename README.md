@@ -1,5 +1,7 @@
 # Popcorn Play
 
+Link - https://samar-movie-app.netlify.app/movies/popular
+
 ## Project Description
 
 Popcorn Play is a React.js web application integrated with the TMDB API, providing real-time information on trending, upcoming, and popular movies. The application allows users to explore movie details, including IMDB ratings.
