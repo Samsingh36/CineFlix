@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text{
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-family: sans-serif;
+    margin: 5px;
+    padding: 5px;
+
+}
