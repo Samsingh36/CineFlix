@@ -1,7 +1,5 @@
 # Popcorn Play
 
-**Project Link: [Popcorn Play](https://movie-m22l.onrender.com/)**
-
 ## Project Description
 
 Popcorn Play is a React.js web application integrated with the TMDB API, providing real-time information on trending, upcoming, and popular movies. The application allows users to explore movie details, including IMDB ratings.
