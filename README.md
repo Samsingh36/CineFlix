@@ -1,6 +1,6 @@
 # CineFlix
 
-Link - https://samar-movie-app.netlify.app/movies/popular
+Link - https://samar-cineflix.netlify.app/
 
 ## Project Description
 
